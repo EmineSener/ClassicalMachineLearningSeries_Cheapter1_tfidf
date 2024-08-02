@@ -4,5 +4,5 @@ I has initiated a comprehensive series focused on classic machine learning topic
 ## Chapter 1: TF-IDF
 The chapter 1 in this series is dedicated to TF-IDF (Term Frequency-Inverse Document Frequency). This chapter includes:
 
-Report: An explanation of the TF-IDF technique, its mathematical foundations, and its importance in text mining and natural language processing.
-Application: A practical implementation using e-commerce data to demonstrate how TF-IDF can be used to analyze and extract meaningful insights from textual data.
+* Report: An explanation of the TF-IDF technique, its mathematical foundations, and its importance in text mining and natural language processing.
+* Application: A practical implementation using e-commerce data to demonstrate how TF-IDF can be used to analyze and extract meaningful insights from textual data.
